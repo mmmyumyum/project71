@@ -1,0 +1,27 @@
+.travel_mainDiv
+{
+border: 1px solid aquamarine;
+}
+
+.travel_mainDiv img
+{
+width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+margin: 15px;
+}
+
+.page_header
+{
+border: 1px solid aqua;
+}
+
+#new_info
+{
+margin-bottom: 20;
+}
+
+#contact iframe
+
